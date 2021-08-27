@@ -16,11 +16,11 @@ seaborn
 # Motivation for the project:
 I am curious on what factors affect the price of the accomodation the most for airbnb accomodation. 
 Also, I would like to know more about:
-neighbourhood numbers
-accommodatation in each neighbourhood
-average price in each neighbourhood, max/min price
-room type, property type
-average price of accomodation
+neighbourhood numbers,
+accommodatation in each neighbourhood,
+average price in each neighbourhood, max/min price,
+room type, property type,
+average price of accomodation,
 reviews/ ratings
 
 
