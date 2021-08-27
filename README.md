@@ -51,3 +51,6 @@ The most important variables determining the price is the room type. If the room
 For the seattle data set, the RMSE from linear regression is super large and RMSE from random forest regressor is 53.69 which the data is fitted much better. Seems that the relationship between most of the variables and price is not linear.
 
 he most important variables determining the price is the number of bedrooms. 
+
+# Blog
+https://graceworkingspace.wixsite.com/website/post/udacity-project1-boston-seattleairbnbdataset
